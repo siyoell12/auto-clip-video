@@ -64,12 +64,12 @@ Aplikasi Python untuk mengunduh video dari YouTube secara otomatis dan menambahk
 
 ```
 AUTO-CLIP/
-├── dea.py              # File utama aplikasi
-├── requirements.txt      # Dependencies
-├── downloads/          # Folder output video
+├── dea.py                            # File utama aplikasi
+├── requirements.txt                  # Dependencies
+├── downloads/                        # Folder output video
 │   ├── [judul_video].mp4
 │   └── [judul_video]_subtitled.mp4
-└── output_shorts/      # Folder untuk shorts (jika diperlukan)
+└── output_shorts/                    # Folder untuk shorts (jika diperlukan)
 ```
 
 ## ⚙️ Konfigurasi
