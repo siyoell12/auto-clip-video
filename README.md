@@ -85,11 +85,11 @@ AUTO-CLIP/
 Edit bagian ini di `dea.py` untuk mengubah tampilan subtitle:
 ```python
 subtitle = (TextClip(text, 
-                   fontsize=48,        # Ukuran font
-                   font="Arial-Bold",  # Jenis font
-                   color="white",      # Warna teks
+                   fontsize=48,          # Ukuran font
+                   font="Arial-Bold",    # Jenis font
+                   color="white",        # Warna teks
                    stroke_color="black", # Warna outline
-                   stroke_width=2)    # Ketebalan outline
+                   stroke_width=2)       # Ketebalan outline
 ```
 
 ## 🛠️ Troubleshooting
