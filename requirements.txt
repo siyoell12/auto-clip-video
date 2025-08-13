@@ -1,0 +1,6 @@
+yt-dlp
+openai-whisper
+moviepy
+tqdm
+numpy
+requests
